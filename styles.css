@@ -22,11 +22,12 @@ body {
 }
 #font1 {
   font-size: 30px;
+  transition: font-size 2s;
  
   }
 #font1:hover {
   font-size: 50px;
-  transition: font-size 1s;
+  transition: font-size 2s;
 }
 header {
 	
