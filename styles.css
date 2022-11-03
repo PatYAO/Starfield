@@ -20,7 +20,14 @@ body {
     margin-left: auto;
     margin-right: auto
 }
-
+#font1 {
+  font-size: 30px;
+ 
+  }
+#font1:hover {
+  font-size: 50px;
+  transition: font-size 1s;
+}
 header {
 	
 }
